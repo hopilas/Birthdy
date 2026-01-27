@@ -17,6 +17,7 @@ a {
 }
 
 .hero00 {
+    top: 200px;
     width: 100%;
     position:absolute;
     margin: 0 auto;
@@ -26,7 +27,6 @@ a {
     font-size: 75px;
     font-weight: 550;
     font-family: cursive;
-    padding-top: 0px;
     white-space: nowrap;
     text-align: center;
     white-space: nowrap;
@@ -43,71 +43,50 @@ a {
 
 .hero2 {
     width: 100%;
-    top: 900px;
+    top: 950px;
     position:absolute;
     margin: 0 auto;
 }
 
 .hero3 {
     width: 100%;
-    top: 1300px;
+    top: 1400px;
     position:absolute;
     margin: 0 auto;
 }
 
 .hero4 {
     width: 100%;
-    top: 1700px;
+    top: 1850px;
     position:absolute;
     margin: 0 auto;
 }
 .hero5 {
     width: 100%;
-    top: 2100px;
+    top: 2300px;
     position:absolute;
     margin: 0 auto;
 }
 .hero6 {
     width: 100%;
-    top: 2500px;
+    top: 2750px;
     position:absolute;
     margin: 0 auto;
 }
 .hero7 {
     width: 100%;
-    top: 2900px;
+    top: 3200px;
     position:absolute;
     margin: 0 auto;
     padding-bottom: 1000px;
 }
 .hero8 {
     width: 100%;
-    top: 3300px;
+    top: 3650px;
     position:absolute;
     margin: 0 auto;
 }
-.hero9 {
-    width: 100%;
-    top: 3700px;
-    position:absolute;
-    margin: 0 auto;
-    padding-bottom: 600px;
-}
-.hero10 {
-    width: 100%;
-    top: 4100px;
-    position:absolute;
-    margin: 0 auto;
-    padding-bottom: 600px;
-}
-.hero00 {
-    width: 100%;
-    left: auto;
-    top: 300px;
-    position:absolute;
-    margin: 0 auto;
 
-}
 .hero img {
     position:absolute;
     transform: translate(-50%);

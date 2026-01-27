@@ -16,16 +16,26 @@ a {
 
 }
 .hero {
-padding-bottom: 500px;
+padding-bottom: 800px;
 position:relative;
 z-index: 1;
 list-style-type: none;
 }
 .hero h1 {
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 550;
     font-family: cursive;
     padding-top: 120px;
+    white-space: nowrap;
+    text-align: center;
+    white-space: nowrap;
+
+}
+.hero h3 {
+    font-size: 35px;
+    font-weight: 550;
+    font-family: cursive;
+    padding-top: 20px;
     white-space: nowrap;
     text-align: center;
     white-space: nowrap;
@@ -33,7 +43,7 @@ list-style-type: none;
 
 }
 .hero img {
-    width: 20%;
+    max-width: 350px;
     border-radius: 10px;
     border: 10px solid #ffffff;
     position:absolute;
@@ -50,16 +60,17 @@ list-style-type: none;
     border-radius: 5px;
     background: #ffffff;
     color:#3b2b27;
-    padding:30px 165px;
+    padding:15px 90px;
     border:0;
     font-size: 30px;
     text-align: center;
     white-space: nowrap;
+    border: 5px solid #0d0808;
     
 
 }
 .hero h2 {
-    font-size: 25px;
+    font-size: 17px;
     font-weight: 550;
     font-family: cursive;
     padding-top: 720px;
