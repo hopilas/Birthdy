@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+body {
+    font-family: "Sofia Sans Semi Condensed", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+a {
+    text-decoration: none;
+}
+.wrapper {
+    background: linear-gradient(360deg,rgb(131, 24, 150) 0%, rgb(157, 58, 25) 80%,rgb(215, 146, 9) 100% );
+    width:100% ;
+    padding-bottom:1000px;
+}
+.hero {
+position:relative;
+z-index: 1;
+list-style-type: none;
+}
+.hero h1 {
+    font-size: 175px;
+    font-weight: 550;
+    font-family: cursive;
+    padding-top: 0px;
+    white-space: nowrap;
+    text-align: center;
+    white-space: nowrap;
+    padding-bottom: 150px;
+
+}
+.hero li a{
+    position:absolute;
+    top: 330px;
+    left:50%;
+    border-radius: 5px;
+    background: #ffffff;
+    color:#751111;
+    padding:15px 90px;
+    font-size: 20px;
+    white-space: nowrap;
+    transform: translate(-50%);
+
+}
